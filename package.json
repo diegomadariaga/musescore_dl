@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npx msdl",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "musescore-downloader": "^0.26.0"
+  }
+}
